@@ -10,7 +10,7 @@ sudo yum install expect -y
 ---
 
 Execution:
-To execute this DEMO we have to fill the list of Linux servers along with username and passwords (this could be changed to a SQL request ;) or a source to hide sensitive information) and axecute main.sh script typing the next command:
+To execute this DEMO we have to fill the list of Linux servers along with username and passwords (this could be changed to a SQL request ;) or a different source to hide sensitive information) and execute main.sh script typing the next command:
 ./main.sh
 
 ---
